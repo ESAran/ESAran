@@ -6,5 +6,5 @@
 
 <p> Cursando Ciências da Computação - Univali</br>Trabalhando na Sicredi Vale Litoral - SC<br/> Atuando na Área de Processos com BPMN e programação.</p>
 <hr>
-<br></br>
+
 
