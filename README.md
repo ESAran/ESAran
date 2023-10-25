@@ -5,5 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Eduardo Slomp Arán&color=4f5d75&style=for-the-badge&logo=GitHub">
 
 <p> Estudando/trabalhando na Sicredi Vale Litoral - SC<br/> Atuando na Área de Processos com BPMN e programação.</p>
-
+<br></br>
 <hr>
+<br></br>
+<br></br>
