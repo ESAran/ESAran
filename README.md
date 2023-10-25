@@ -4,8 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Eduardo Slomp Arán&color=4f5d75&style=for-the-badge&logo=GitHub">
 
-<p> Trabalhando na Sicredi Vale Litoral - SC<br/> Atuando na Área de Processos com BPMN e programação.</p><br>Cursando Ciências da Computação - Univali</p>
-<br></br>
+<p> Cursando Ciências da Computação - Univali</br>Trabalhando na Sicredi Vale Litoral - SC<br/> Atuando na Área de Processos com BPMN e programação.</p>
 <hr>
 <br></br>
 
