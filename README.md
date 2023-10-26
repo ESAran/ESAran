@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ESAran&show_icons=true&title_color=2d3142&text_color=4f5d75&icon_color=ef8354&bg_color=ffffff&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ESAran&show_icons=true&title_color=2d3142&text_color=4f5d75&icon_color=ef8354&bg_color=ffffff&rank_icon=github&cache_seconds=2300">
 
 ## Eduardo Slomp Arán
 
