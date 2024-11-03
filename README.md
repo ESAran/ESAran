@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=ESAran&color=4f5d75&style=for-the-badge&logo=GitHub">
 
 <p> Cursando Ciências da Computação - Univali</br>Trabalhando na Sicredi Vale Litoral - SC<br/> Atuando na Área de Desenvolvimento de Sistemas</p>
-</br>Estudando python🐍🤖</br>
+</br>Estudando python 🐍🤖</br>
 
 
 ---
