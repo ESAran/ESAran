@@ -12,6 +12,10 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESAran&&exclude_repo=Skin-Segmentation-on-Python&show_icons=true&title_color=2d3142&text_color=4f5d75&icon_color=ef8354&bg_color=ffffff&cache_seconds=2300">
 
-<hr>
 
-![snake animation](https://github.com/ESAran/ESAran/blob/output/github-contribution-grid-snake2.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
